@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+    border: solid 1px;
+    padding: 10px 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.171);
+    font-size: 30px;
+    margin: 40px;
+    border-radius: 5px;
+    position: relative;
+    top: 30px;
+    transition: 0.5s;
+
+}
+a:hover{
+    background-color: wheat;
+    color: rgba(10, 10, 235, 0.842);
+    box-shadow: 2px 4px 10px 5px black;}
+
+    body{
+        background-color: rgba(10, 10, 235, 0.842);
+    }
+
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
